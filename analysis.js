@@ -41,7 +41,7 @@ function ComplexityBuilder()
 	this.Imports = imports; // done
 	this.report = function()
 	{
-		console.log(
+		console. BREAKINGSTUFF log(
 		   (
 		   	"{0}(): {1}\n" +
 		   	"============testDevFinal\n" +
