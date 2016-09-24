@@ -1,6 +1,7 @@
 var esprima = require("esprima");
 var options = {tokens:true, tolerant: true, loc: true, range: true };
 var fs = require("fs");
+var causeError = requre("CauseError");
 var imports = 0;
 function main()
 {
@@ -41,7 +42,7 @@ function ComplexityBuilder()
 	this.Imports = imports; // done
 	this.report = function()
 	{
-		console. BREAKINGSTUFF log(
+		console.log(
 		   (
 		   	"{0}(): {1}\n" +
 		   	"============testDevFinal\n" +
