@@ -44,7 +44,7 @@ function ComplexityBuilder()
 		console.log(
 		   (
 		   	"{0}(): {1}\n" +
-		   	"============testpostrec?\n" +
+		   	"============test?\n" +
 			   "SimpleCyclomaticComplexity: {2}\t" +
 				"MaxNestingDepth: {3}\t" +
 				"MaxConditions: {4}\t" +
