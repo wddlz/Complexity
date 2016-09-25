@@ -1,0 +1,21 @@
+{
+  "name": "complexity",
+  "version": "1.0.0",
+  "description": "from devops",
+  "main": "analysis.js",
+  "dependencies": {},
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wddlz/Complexity.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/wddlz/Complexity/issues"
+  },
+  "homepage": "https://github.com/wddlz/Complexity#readme"
+}
