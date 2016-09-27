@@ -192,7 +192,7 @@ function functionName( node )
 		return node.id.name;   
 	}
 	return "anon function @" + node.loc.start.line;
-}
+}  
 
 // Helper function for allowing parameterized formatting of strings.
 if (!String.prototype.format) {
