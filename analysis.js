@@ -21,7 +21,7 @@ function main()
 		builder.report();
 	}
 
-}
+}   
 
 var builders = {};
 
