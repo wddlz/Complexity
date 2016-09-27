@@ -4,7 +4,7 @@ var fs = require("fs");
 var imports = 0;  
 function main()
 {
-	var args = process.argv.slice(2);
+	var args = process.argv.slice(2);  
 
 	if( args.length == 0 )
 	{
