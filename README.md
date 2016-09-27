@@ -1,3 +1,5 @@
 # complexity
 from devops
-test push2
+This is the repo used for our build server [Milestone 1](https://github.com/debalin/devops-milestone1)
+
+Push to dev and release branches to trigger builds on the build server
