@@ -3,7 +3,7 @@ var options = {tokens:true, tolerant: true, loc: true, range: true };
 var fs = require("fs");
 var causeError = require("CauseError");
 var imports = 0;
-function main()
+function main()  
 {
 	var args = process.argv.slice(2);
 
