@@ -203,7 +203,7 @@ if (!String.prototype.format) {
         ? args[number]
         : match
       ;
-    });
+    });  
   };
 }
 
