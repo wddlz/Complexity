@@ -181,7 +181,7 @@ function isDecision(node)
 	{
 		return true;
 	}
-	return false;
+	return false;  
 }
 
 // Helper function for printing out function name.
